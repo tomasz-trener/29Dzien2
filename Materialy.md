@@ -12,6 +12,8 @@
 
 6. **W3Schools** ([w3schools.com](https://www.w3schools.com)): Æwiczenia C# z odpowiedziami dla ka¿dego rozdzia³u, z systemem punktacji za poprawne odpowiedzi.
 
+7. **SPOJ **([SPOJ.com](https://pl.spoj.com/problems/JHTMLLET)): 
+
 ### Materia³y online do nauki C#
 
 1. **.NET Microsoft** ([dotnet.microsoft.com](https://dotnet.microsoft.com)): Seria wideo dla pocz¹tkuj¹cych do nauki C#.
