@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01NarzedzieWebClient", "P0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02ZadaniePogoda", "P02ZadaniePogoda\P02ZadaniePogoda.csproj", "{B58FE9D1-F966-4EAA-A12D-1A84C250CBA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03Tablice", "P03Tablice\P03Tablice.csproj", "{7D755BA2-31DC-4814-A2E3-0E4AF707792E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B58FE9D1-F966-4EAA-A12D-1A84C250CBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B58FE9D1-F966-4EAA-A12D-1A84C250CBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B58FE9D1-F966-4EAA-A12D-1A84C250CBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D755BA2-31DC-4814-A2E3-0E4AF707792E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D755BA2-31DC-4814-A2E3-0E4AF707792E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D755BA2-31DC-4814-A2E3-0E4AF707792E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D755BA2-31DC-4814-A2E3-0E4AF707792E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
