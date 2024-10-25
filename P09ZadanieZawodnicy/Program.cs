@@ -19,7 +19,7 @@ namespace P09ZadanieZawodnicy
 
             WebClient wc = new WebClient();
             string dane = wc.DownloadString(sciezka);
-
+             
             string[] separatorWierszy = { "\r\n" };
             string[] wiersze =dane.Split(separatorWierszy, StringSplitOptions.RemoveEmptyEntries);
 
