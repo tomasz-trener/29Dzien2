@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03Tablice", "P03Tablice\P0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04ZadnieTablice", "P04ZadnieTablice\P04ZadnieTablice.csproj", "{CBEC589B-DE84-4AEE-9516-DDF360628CF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05ObslugaBledow", "P05ObslugaBledow\P05ObslugaBledow.csproj", "{B50C3C65-607B-4794-82DC-33006E2EEA1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CBEC589B-DE84-4AEE-9516-DDF360628CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBEC589B-DE84-4AEE-9516-DDF360628CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBEC589B-DE84-4AEE-9516-DDF360628CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50C3C65-607B-4794-82DC-33006E2EEA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50C3C65-607B-4794-82DC-33006E2EEA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50C3C65-607B-4794-82DC-33006E2EEA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50C3C65-607B-4794-82DC-33006E2EEA1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
