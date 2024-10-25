@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01NarzedzieWebClient", "P01NarzedzieWebClient\P01NarzedzieWebClient.csproj", "{5CF951B6-5C8B-4CF0-9341-3A4B762D4BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02ZadaniePogoda", "P02ZadaniePogoda\P02ZadaniePogoda.csproj", "{B58FE9D1-F966-4EAA-A12D-1A84C250CBA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CF951B6-5C8B-4CF0-9341-3A4B762D4BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF951B6-5C8B-4CF0-9341-3A4B762D4BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF951B6-5C8B-4CF0-9341-3A4B762D4BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF951B6-5C8B-4CF0-9341-3A4B762D4BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58FE9D1-F966-4EAA-A12D-1A84C250CBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58FE9D1-F966-4EAA-A12D-1A84C250CBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58FE9D1-F966-4EAA-A12D-1A84C250CBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58FE9D1-F966-4EAA-A12D-1A84C250CBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF5F9A0D-87AE-4680-AD97-ABC11A071A33}
+	EndGlobalSection
+EndGlobal
